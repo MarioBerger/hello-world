@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\mberg\\Source\\Repos\\hello-world\\hello-world\\hello-world.csproj": {}
+    "C:\\Users\\mberg\\source\\repos\\hello-world\\hello-world.csproj": {}
   },
   "projects": {
-    "C:\\Users\\mberg\\Source\\Repos\\hello-world\\hello-world\\hello-world.csproj": {
+    "C:\\Users\\mberg\\source\\repos\\hello-world\\hello-world.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\mberg\\Source\\Repos\\hello-world\\hello-world\\hello-world.csproj",
+        "projectUniqueName": "C:\\Users\\mberg\\source\\repos\\hello-world\\hello-world.csproj",
         "projectName": "hello-world",
-        "projectPath": "C:\\Users\\mberg\\Source\\Repos\\hello-world\\hello-world\\hello-world.csproj",
+        "projectPath": "C:\\Users\\mberg\\source\\repos\\hello-world\\hello-world.csproj",
         "packagesPath": "C:\\Users\\mberg\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\mberg\\Source\\Repos\\hello-world\\hello-world\\obj\\",
+        "outputPath": "C:\\Users\\mberg\\source\\repos\\hello-world\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\mberg\\AppData\\Roaming\\NuGet\\NuGet.Config",
